@@ -2,7 +2,7 @@
   <img src="DnLUT_logo.png" height=110>
 </p>
 
-# [CVPR2025] DnLUT: Ultra-Efficient Color Image Denoising \\ via Channel-Aware Lookup Tables
+# [CVPR2025] DnLUT: Ultra-Efficient Color Image Denoising via Channel-Aware Lookup Tables
 
 [paper](https://arxiv.org/pdf/2503.15931)
 
