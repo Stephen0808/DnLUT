@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="ICELUT/ICELUT_logo.png" height=110>
+  <img src="DnLUT_logo.png" height=110>
 </p>
 
 # [CVPR2025] DnLUT: Ultra-Efficient Color Image Denoising via Channel-Aware Lookup Tables
