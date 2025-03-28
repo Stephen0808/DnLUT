@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="DnLUT_logo.png" height=110>
+  <img src="./DnLUT/DnLUT_logo.png" height=110>
 </p>
 
 # [CVPR25] DnLUT: Ultra-Efficient Color Image Denoising via Channel-Aware Lookup Tables
