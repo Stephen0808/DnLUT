@@ -53,3 +53,6 @@ python generate_patches_sidd.py
 cd /home/styan/DnLUT/dn
 CUDA_VISIBLE_DEVICES=4 python 1_train_model_dnlut.py
 ```
+
+## Acknowledgement
+Our codes are built upon [SRLUT](https://github.com/yhjo09/SR-LUT) and [MuLUT](https://github.com/ddlee-cn/MuLUT). Thanks for their great works.
