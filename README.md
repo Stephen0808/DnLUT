@@ -48,6 +48,14 @@ python download_data.py --data train --noise real
 ```python 
 python generate_patches_sidd.py 
 ```
+
+## Training
+
+```python
+cd /home/styan/DnLUT/dn
+CUDA_VISIBLE_DEVICES=4 python 1_train_model_dnlut.py
+```
+
 ## Citation
 ```
 @article{yang2025dnlut,
@@ -56,13 +64,6 @@ python generate_patches_sidd.py
   journal={arXiv preprint arXiv:2503.15931},
   year={2025}
 }
-```
-
-## Training
-
-```python
-cd /home/styan/DnLUT/dn
-CUDA_VISIBLE_DEVICES=4 python 1_train_model_dnlut.py
 ```
 
 ## Acknowledgement
