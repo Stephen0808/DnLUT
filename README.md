@@ -48,6 +48,15 @@ python download_data.py --data train --noise real
 ```python 
 python generate_patches_sidd.py 
 ```
+## Citation
+```
+@article{yang2025dnlut,
+  title={DnLUT: Ultra-Efficient Color Image Denoising via Channel-Aware Lookup Tables},
+  author={Yang, Sidi and Huang, Binxiao and Zhang, Yulun and Yu, Dahai and Yang, Yujiu and Wong, Ngai},
+  journal={arXiv preprint arXiv:2503.15931},
+  year={2025}
+}
+```
 
 ## Training
 
