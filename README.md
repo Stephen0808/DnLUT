@@ -9,5 +9,5 @@
 :star: If DnLUT is helpful to your images or projects, please help star this repo. Thanks! :hugs: 
 
 ## TODO
-- [ ] Add training code and config files
+- [x] Add training code and config files
 - [ ] Add LUT and inference code
