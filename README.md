@@ -25,6 +25,7 @@ We build our training and evaluation dataset by following [Restormer](https://gi
 ### Gaussian Noise
 + Download training (DIV2K, Flickr2K, WED, BSD) and testing datasets, run
 ```python
+cd build_data
 python download_data.py --data train-test --noise gaussian
 ```
 
@@ -36,6 +37,7 @@ python generate_patches_dfwb.py
 ### Real Image Denoising
 + Download SIDD training data, run
 ```python
+cd build_data
 python download_data.py --data train --noise real
 ```
 
