@@ -45,7 +45,7 @@ python download_data.py --data train --noise real
 python generate_patches_sidd.py 
 ```
 
-##Training
+## Training
 
 ```python
 cd /home/styan/DnLUT/dn
