@@ -24,7 +24,7 @@ pip install -r requirements.txt
 
 We build our training and evaluation dataset by following [Restormer](https://github.com/swz30/Restormer/blob/main/Denoising/README.md#training). You could build other datasets with their repo as reference. If you want to download the correponding dataset for our task in huggingface, I will later upload them if you put forward your issue.
 
-### Gaussian Noise
+### Gaussian Denoising
 + Download training (DIV2K, Flickr2K, WED, BSD) and testing datasets, run
 ```python
 cd build_data
