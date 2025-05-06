@@ -52,8 +52,8 @@ python generate_patches_sidd.py
 ## Training
 
 ```python
-cd /home/styan/DnLUT/dn
-CUDA_VISIBLE_DEVICES=4 python 1_train_model_dnlut.py
+cd ~/DnLUT/dn
+python 1_train_model_dnlut.py
 ```
 
 ## Citation
