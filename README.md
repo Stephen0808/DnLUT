@@ -4,7 +4,8 @@
 
 # [CVPR25] DnLUT: Ultra-Efficient Color Image Denoising via Channel-Aware Lookup Tables
 
-[![paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)]([(https://arxiv.org/pdf/2503.15931)])
+[![arXiv](https://img.shields.io/badge/arXiv-2503.15931-b31b1b.svg)](https://arxiv.org/abs/2503.15931)
+
 
 :construction: This repo is still under construction. Thanks for your waiting!
 
