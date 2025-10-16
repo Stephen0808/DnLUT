@@ -13,7 +13,7 @@
 
 ## TODO
 - [x] Add training code and config files
-- [ ] Add LUT and inference code
+- [x] Add LUT transferring and inference code
 
 ## Installation
 
