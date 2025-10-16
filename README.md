@@ -12,8 +12,8 @@
 :star: If DnLUT is helpful to your images or projects, please help star this repo. Thanks! :hugs: 
 
 ## TODO
-- [x] Add training code and config files
-- [x] Add LUT transferring and inference code
+- [x] Add training codes and config files
+- [x] Add LUT transferring and inference codes
 
 ## Installation
 
