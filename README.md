@@ -57,6 +57,12 @@ cd ~/DnLUT/dn
 python 1_train_model_dnlut.py
 ```
 
+## Transferring
+```python
+cd ~/DnLUT/dn
+python 2_transfer_to_lut_dn.py
+```
+
 ## Citation
 ```
 @article{yang2025dnlut,
